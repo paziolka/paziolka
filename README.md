@@ -1,5 +1,6 @@
 # Hi there! 👋
-I'm Ola, a ruby developer with 9 years of experience in crafting roby/RoR web applications. If you'll ever need to explain to a frontend developer how to create a simple API using RoR, feel free to use the [tutorial I've created](https://github.com/paziolka/koalapp) ~~for charity~~ for koalas 🐨, after the 2020 Australian bushfires.
+I'm Ola, a ruby developer with 9 years of experience in crafting ruby/RoR web applications. If you'll ever need to explain to a frontend developer how to create a simple API using RoR, feel free to use the [tutorial I've created](https://github.com/paziolka/koalapp) ~~for charity~~ for koalas 🐨, after the 2020 Australian bushfires.
+
 Currently, I'm diving into the exciting world of Python. Privately, I'm passionate about rock climbing (I know, how original...) and my favorite animal is marine iguana 🦎.
 
 [![My Skills](https://skillicons.dev/icons?i=ruby,rails,git,aws,docker,postgres,sublime)](https://skillicons.dev)
