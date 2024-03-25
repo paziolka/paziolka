@@ -9,4 +9,5 @@ I’m currently working on mastering Python! Check out my Python projects: [a si
 
 ## Get in Touch
 Feel free to reach out for collaborations, discussions, or just to say hello! 🚀
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleksandra-ola-pazio-03047089/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ola.pazio@gmail.com)
